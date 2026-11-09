@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "asb-rude-qa": {
+      "source": "asmartbear/asb-skills",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/asb-rude-qa/SKILL.md",
+      "computedHash": "de922c32d1e0af635956c12309f0c1ea5f452fe1b6fec8aeca9cb86c2a745a7a"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
+    "fundraising": {
+      "source": "refoundai/lenny-skills",
+      "sourceType": "github",
+      "skillPath": "skills/fundraising/SKILL.md",
+      "computedHash": "f3274af727a0c745ee2b496376d4d2cc60026a457cd8c81a645dee6077c6652f"
+    },
+    "fundraising-narrative": {
+      "source": "guia-matthieu/clawfu-skills",
+      "sourceType": "github",
+      "skillPath": "skills/startup/fundraising-narrative/SKILL.md",
+      "computedHash": "2ac66cfe0503ae2a7e952c05f25a145e5d7f88916869b276d385b58e1bc647b2"
+    },
+    "grilling": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grilling/SKILL.md",
+      "computedHash": "e40cc1d348f6d935e28f1e24474302d7368f0a400429271a43b35fe154891dc5"
+    },
+    "investment-memo": {
+      "source": "claude-office-skills/skills",
+      "sourceType": "github",
+      "skillPath": "investment-memo/SKILL.md",
+      "computedHash": "164ca17d48f2726f13479d2575b336810939ffbdb4d7bfabf79c46b938e98c40"
+    },
+    "investor-materials": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/investor-materials/SKILL.md",
+      "computedHash": "e1d1c0e530a2f45bb442ffef95aab0eaef5d91757189be9b1d98311268c5308d"
+    },
+    "startup-analysis": {
+      "source": "himself65/finance-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/startup-tools/skills/startup-analysis/SKILL.md",
+      "computedHash": "78a1948fb94ba0930ae801c01bf56a70f22e3a58d3c87b55a997693ce323bc5a"
+    },
+    "startup-financial-modeling": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "skillPath": "plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md",
+      "computedHash": "4618e2ecf456d323c6b26c7a1fc441830779823cee191cccb782eb837ba84068"
+    },
+    "startup-validator": {
+      "source": "ailabs-393/ai-labs-claude-skills",
+      "sourceType": "github",
+      "skillPath": "packages/skills/startup-validator/SKILL.md",
+      "computedHash": "d5a6b39c886911c3d0e0cb3da6bed2a5af992cd01437a42f507d740cd7d92702"
+    },
+    "the-fool": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/the-fool/SKILL.md",
+      "computedHash": "0a80318bd1ed6457cade13ad0c13a490b7a20830d00d7e5616d44d51ace1ce0d"
+    },
+    "yc-pitch-deck": {
+      "source": "guia-matthieu/clawfu-skills",
+      "sourceType": "github",
+      "skillPath": "skills/startup/yc-pitch-deck/SKILL.md",
+      "computedHash": "d8ded4f5875c6ae7321783f9aa945dce3d17381433dba3e75075ef5563627704"
+    }
+  }
+}
